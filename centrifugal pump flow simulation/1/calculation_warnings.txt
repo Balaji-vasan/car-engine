@@ -1,0 +1,7 @@
+2023-May-29 03:21:23
+Computer name:	DESKTOP-KOIN3HL
+Number of cores used in calculation:	12
+Configuration name:	Default
+Project name:	Project(1)
+
+Warnings on last iteration: 
